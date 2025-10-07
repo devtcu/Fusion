@@ -1,1 +1,1 @@
-backup of TDA
+This is my ongoing progress of my investigation of Syncytia, a biological fusion mechansim that reuslts in multinucleated cells. I outline initial methods that to create a data-driven analysis of assays that we collected and then converted them to graphs to explore them using neural networks
