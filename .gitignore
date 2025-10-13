@@ -3,3 +3,7 @@
 *.jpg
 *.jpeg
 contrastive_predictions.*
+
+# Synthetic datasets
+Fusion/Pipeline/synthetic_dataset/
+**/synthetic_dataset/
